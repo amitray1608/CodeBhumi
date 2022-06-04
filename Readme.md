@@ -1,5 +1,5 @@
 # CodeBhumi
-Peer Share is a code pair platform where users can share an interactive editor and write code together. It has language support for C++, Java and python. This application is based on the concept of operational transformation which forms the basis for a shared editor. Video calling is also provided within this application. It has some similar features as provided by [HackerRank's CodePair](https://www.hackerrank.com/products/codepair/) platform.
+CodeBhumi is a code pair platform where users can share an interactive editor and write code together. It has language support for C++, Java and python. This application is based on the concept of operational transformation which forms the basis for a shared editor. Video calling is also provided within this application. It has some similar features as provided by [HackerRank's CodePair](https://www.hackerrank.com/products/codepair/) platform.
 
 
 ## Run Locally
