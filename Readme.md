@@ -16,7 +16,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Operational_transformatio
 > collaboration functionalities in advanced collaborative software systems. 
 > OT was originally invented for consistency maintenance and concurrency control in collaborative editing of plain text documents.
 
-## Code Pair uses the following packages to achieve OT: 
+## CodeBhumi uses the following packages to achieve OT: 
    - **[sharedb](https://github.com/share/sharedb):** sharedb provides a realtime database backend based on Operational Transformation(OT) of JSON documents.
    - **[json0](https://github.com/ottypes/json0):** json0 is used to edit arbitrary json documents.
    - **[sharedb-string-binding](https://github.com/share/sharedb-string-binding):** It provides two-way binding for json0 string operations for HTML text input or textarea.
